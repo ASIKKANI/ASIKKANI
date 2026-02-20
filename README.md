@@ -1,5 +1,5 @@
 <div align="center">
-
+<img src="https://media.giphy.com/media/qgQUggCGvnkNC/giphy.gif" width="200" alt="Coding Pixel Art" />
 # Hi there, I'm Asik Kani 👋
 
 <br>
