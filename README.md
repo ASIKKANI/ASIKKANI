@@ -53,8 +53,6 @@ I thrive on rapidly prototyping ideas, reasoning about model limitations, and tr
 
 ### 🛠️ Tech Stack & Tools
 
-### 🛠️ Tech Stack & Tools
-
 <br>
 
 <div align="center">
