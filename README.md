@@ -21,7 +21,7 @@
 
 I am a second-year B.Tech undergraduate specializing in Electrical and Electronics Engineering at VIT Chennai. My true technical focus lies in **Artificial Intelligence, Natural Language Processing, and designing Large Language Model-based systems**. 
 
-I thrive on rapidly prototyping ideas, reasoning about model limitations, and translating complex technical outputs into clear, human-centered explanations. While my core expertise is in AI software and overcoming complex model architectures from scratch, I also have a growing interest in how AI integrates with hardware systems.
+I thrive on rapidly prototyping ideas, reasoning about model limitations, and translating complex technical outputs into clear, human-centered explanations. I have participated in more than **10+ hackathons** While my core expertise is in AI software and overcoming complex model architectures from scratch, I also have a growing interest in how AI integrates with hardware systems.
 
 * 🔭 **Currently Building:** Interpretable AI applications, LLM pipelines, and autonomous agents.
 * 🧠 **Technical Focus:** Machine Learning fundamentals, NLP pipelines, prompt engineering, and tackling complex model overfitting without relying on pre-trained architectures.
