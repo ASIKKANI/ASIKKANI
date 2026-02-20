@@ -1,5 +1,5 @@
 <div align="center">
-<div class="tenor-gif-embed" data-postid="17377472923003362747" data-share-method="host" data-aspect-ratio="1.5" data-width="100%"><a href="https://tenor.com/view/anime-gif-17377472923003362747">Anime GIF</a>from <a href="https://tenor.com/search/anime-gifs">Anime GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img src="https://media.giphy.com/media/qgQUggCGvnkNC/giphy.gif" width="200" alt="Coding Pixel Art" />
 
   # Hi there, I'm Asik Kani 👋
 
