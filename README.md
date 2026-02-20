@@ -81,8 +81,8 @@ I thrive on rapidly prototyping ideas, reasoning about model limitations, and tr
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ASIKKANI&show_icons=true&theme=transparent&hide_border=true&title_color=4285F4&icon_color=4285F4" alt="Asik's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASIKKANI&layout=compact&theme=transparent&hide_border=true&title_color=4285F4" alt="Asik's Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ASIKKANI&show_icons=true&theme=transparent&hide_border=true&title_color=4285F4&icon_color=4285F4&v=1" alt="Asik's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASIKKANI&layout=compact&theme=transparent&hide_border=true&title_color=4285F4&v=1" alt="Asik's Top Languages" width="48%" />
 </div>
 
 <br>
