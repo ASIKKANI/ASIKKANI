@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/user-attachments/assets/750a2851-b35d-4830-85d2-27a067a36b1e" width="200" alt="Coding Pixel Art" />
+<img src="https://github.com/user-attachments/assets/750a2851-b35d-4830-85d2-27a067a36b1e" width="400" alt="Coding Pixel Art" />
 
   # Hi there, I'm Asik Kani 👋
 
