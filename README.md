@@ -18,14 +18,6 @@
 
 I bridge the gap between heavy AI model reasoning and bare-metal OS control. Currently operating as an ML Engineer Intern at **Aathma Pranavaayu**, a Core AI/ML Department Member at **AWS Cloud Club VITC**, and an active contributor within the open-source ecosystem.
 
-| Sector / Organization | Technical Focus | Timeline |
-| :--- | :--- | :--- |
-| **Aathma Pranavaayu** | ML Engineer Intern — Low-compute parameter adaptation, LoRA fine-tuning | Feb 2026 – Present |
-| **AWS Cloud Club (VITC)** | AI/ML Dept — Deploying cloud-native multi-agent serverless workflows | Jan 2026 – Present |
-| **GirlScript Summer of Code** | Open Source Contributor — Distributed Git branches, codebase refactoring | May 2026 – Present |
-| **VIT Chennai** | B.Tech Student in Electrical & Electronics Engineering (EEE) | Grad 2028 |
-| **Kurinji Senior Sec School** | Central Board of Secondary Education (CBSE) | Class XII: 90% |
-
 <br>
 
 ---
