@@ -1,15 +1,12 @@
 <div align="center">
-<img src="https://github.com/user-attachments/assets/750a2851-b35d-4830-85d2-27a067a36b1e" width="400" alt="Coding Pixel Art" />
+<img src="https://github.com/user-attachments/assets/750a2851-b35d-4830-85d2-27a067a36b1e" width="410" alt="Coding Pixel Art" />
 
-  # Hi there, I'm Asik Kani 👋
+# P Asik Kani
+### ⚡ Systems Engineer & Agentic AI Architect ⚡
 
-<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=4285F4&center=true&vCenter=true&width=600&lines=ML+Engineer+Intern;5x+National+Hackathon+Champion;Building+Autonomous+Agent+OS;B.Tech+EEE+@+VIT+Chennai)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4285F4&center=true&vCenter=true&width=600&lines=Aspiring+AI+%26+LLM+Engineer;NLP+%2B+Human-Centered+AI;Hackathon+Winner+%7C+Problem+Solver;Student+@+VIT+Chennai)](https://git.io/typing-svg)
-
-<p align="center">
-  <b>Building interpretable, human-centered AI systems and exploring the intersection of deep learning and real-world accessibility.</b>
-</p>
+**Architecting low-latency autonomous pipelines, local LLM fine-tuning, and hardware-to-OS system integrations.**
 
 </div>
 
@@ -17,104 +14,80 @@
 
 ---
 
-### 👨‍💻 About Me
+### 📡 Current Matrix
 
-I am a second-year B.Tech undergraduate specializing in Electrical and Electronics Engineering at VIT Chennai. My true technical focus lies in **Artificial Intelligence, Natural Language Processing, and designing Large Language Model-based systems**. 
+I bridge the gap between heavy AI model reasoning and bare-metal OS control. Currently operating as an ML Engineer Intern at **Aathma Pranavaayu**, a Core AI/ML Department Member at **AWS Cloud Club VITC**, and an active contributor within the open-source ecosystem.
 
-I thrive on rapidly prototyping ideas, reasoning about model limitations, and translating complex technical outputs into clear, human-centered explanations. I have participated in more than **10+ hackathons** While my core expertise is in AI software and overcoming complex model architectures from scratch, I also have a growing interest in how AI integrates with hardware systems.
-
-* 🔭 **Currently Building:** Interpretable AI applications, LLM pipelines, and autonomous agents.
-* 🧠 **Technical Focus:** Machine Learning fundamentals, NLP pipelines, prompt engineering, and tackling complex model overfitting without relying on pre-trained architectures.
-* 🏆 **Recent Achievement:** Winner of the Dataset 2 Hackathon (First Prize), securing an upcoming AI internship opportunity.
-
-<br>
-
----
-
-### 🚀 Featured Projects
-
-<br>
-
-**🩺 [medi_report_analyser] | *Hackathon Winning Product***
-> A hybrid AI medical report intelligence platform featuring local OCR, explainable insights, and an accessibility-first design. It extracts key medical values to generate clear, patient-friendly explanations, focusing strictly on interpretability rather than diagnosis.
-
-**🤖 [Defy] | *Autonomous Agent***
-> An MCP-powered autonomous AI trading agent that executes crypto trades via smart contracts. It logs every decision on-chain to ensure full transparency, auditability, and trustless AI-Web3 integration.
-
-**🌤️ [Weather-classifier-aws-competion] | *Deep Learning***
-> A custom Squeeze-and-Excitation ResNet (SE-ResNet) built entirely from scratch to classify weather conditions under severe domain shift. I focused heavily on analyzing and overcoming overfitting failures without using pre-trained models, achieving a Top 4 finish with a 0.719 F1-Score.
-
-**📱 [SignalWorks] | *AWS SMS Architecture***
-> An AI-powered market intelligence platform built for the AWS AI for Bharat Hackathon. Designed to support Indian street vendors, it uses Amazon Pinpoint/SNS and Bedrock to deliver actionable "Golden Hour" alerts and multilingual government scheme information via SMS directly to basic feature phones in zero-signal zones.
+| Sector / Organization | Technical Focus | Timeline |
+| :--- | :--- | :--- |
+| **Aathma Pranavaayu** | ML Engineer Intern — Low-compute parameter adaptation, LoRA fine-tuning | Feb 2026 – Present |
+| **AWS Cloud Club (VITC)** | AI/ML Dept — Deploying cloud-native multi-agent serverless workflows | Jan 2026 – Present |
+| **GirlScript Summer of Code** | Open Source Contributor — Distributed Git branches, codebase refactoring | May 2026 – Present |
+| **VIT Chennai** | B.Tech Student in Electrical & Electronics Engineering (EEE) | Grad 2028 |
+| **Kurinji Senior Sec School** | Central Board of Secondary Education (CBSE) | Class XII: 90% |
 
 <br>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🏆 The Trophy Room (5x National Podium Finishes)
 
-<br>
+Out of 20+ competitive national hackathons, these five builds survived strict 24-to-48-hour timelines and intense judging panels to secure overall podium positions:
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/LangGraph_%26_LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-  
-  <br><br>
-  
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  
-  <br><br>
-  
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux_WSL2-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</div>
+| Event & Rank | Shipped Codebase | Central Innovation Engine | Engineering Impact Implemented |
+| :--- | :--- | :--- | :--- |
+| **DataSet '25** <br> 🥇 *1st Place* | **MediScan AI** | Computer Vision / Segmentation | Automated biomedical pipeline isolating regions of interest in complex imagery. |
+| **Glitchthon 2.0** <br> 🥇 *1st Place* | **Healthcare Logistics** | Multi-Agent Orchestration | Decentralized system dynamically routing critical pharmaceuticals under active bottlenecks. |
+| **AghriNova** <br> 🥇 *1st Place* | **Landroid** | Geospatial APIs & Satellite Vision | Integrated Birdscale drone metrics and time-series data for canopy counting in 24 hours. |
+| **Hack-N-Android '26** <br> 🥈 *2nd Place* | **Aura-OS** | Android Accessibility & Live APIs | Zero-Hop OS-level automation using thread-safe WebSockets to bypass UI latency. |
+| **DevsHouse '26 (GDG)** <br> 🥉 *3rd Place* | **TerraGuard (Sentinel)** | Edge Computing & Signal Processing | ESP32 seismic mesh network processing heavy machinery noise locally on-chip. |
 
 <br>
 
 ---
 
-### 📊 GitHub Stats
+### 🚀 Production Repositories & Architectures
+
+#### 🌐 Agentic AI & Operating System Automation
+
+> ### [Aura-OS](https://github.com/ASIKKANI/Aura-OS) — Autonomous Android Executive Layer
+> *   **The Core:** Built a zero-hop edge framework enabling a Gemini 2.0 Flash ReAct loop to autonomously control third-party mobile applications without hardcoded paths.
+> *   **System Mechanics:** Leveraged `AccessibilityService` and a custom `SemanticFlattener` to convert dense UI layouts into tokenized JSON, dispatching execution via the `GestureDescription` API and Jaro-Winkler string tracking.
+> *   **Race-Condition Mitigation:** Solved real-time streaming constraints across bidirectional JSON/Audio streams using a thread-safe `ConcurrentHashMap` combined with a deterministic 3x 800ms retry draw-cycle strategy.
+
+> ### [AgentChain](https://github.com/ASIKKANI/AgentChain) — Transparent Trustless Web3 Trading
+> *   **The Core:** Architected an autonomous crypto trading agent running on the Model Context Protocol (MCP) that moves decisions entirely on-chain.
+> *   **System Mechanics:** Decoupled multi-variable trade logic into explainable decision trees. Every execution is logged immutably via smart contracts, generating a transparent ledger audit track for DAO governance.
+
+> ### [VoicePulse](https://github.com/ASIKKANI/VoicePulse) — Conversational Diagnostic Console
+> *   **The Core:** A voice-first analytics engine running conversational AI interviewers that dynamically deep-probe open-ended verbal responses.
+> *   **System Mechanics:** Engineered a real-time transcript processing engine featuring dynamic topic segmentation and context-aware sentiment analysis to spit out priority action matrices for systems operators.
+
+> ### [ChronoPet](https://github.com/ASIKKANI/ChronoPet) — Native Windows Active Focus Companion
+> *   **The Core:** A low-friction background desktop organizer that parses task state via semantic memory loops.
+> *   **System Mechanics:** Monitors foreground processes directly via native `Win32 APIs` paired with local semantic memory handling via `ChromaDB`. Task ingestion runs via an isolated `Docker` container hosting a WhatsApp message parsing microservice via `LiteLLM`.
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ASIKKANI&show_icons=true&theme=transparent&hide_border=true&title_color=4285F4&icon_color=4285F4&v=1" alt="Asik's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASIKKANI&layout=compact&theme=transparent&hide_border=true&title_color=4285F4&v=1" alt="Asik's Top Languages" width="48%" />
-</div>
+#### 📡 Infrastructure, Cloud & Hardware Systems
+
+> ### [SignalWorks](https://github.com/ASIKKANI/SignalWorks) — Zero-UI Predictive Market Engine
+> *   **The Core:** Built a network decision infrastructure giving 10 Million+ offline street vendors live geospatial market analytics without internet access or smartphones.
+> *   **System Mechanics:** Combines `Amazon Bedrock` (Claude 3 reasoning) and `SageMaker` pricing trends. Delivers real-time location heatmaps and localized data via 2G SMS and automated Interactive Voice Response (IVR) phone loops. *[Shortlisted for AWS AI for Bharat]*
+
+> ### [TerraGuard](https://github.com/ASIKKANI/TerraGuard) — Distributed Seismic Mesh Network
+> *   **The Core:** An end-to-end telemetry system designed to flag and intercept illegal river sand mining operations using remote hardware nodes.
+> *   **System Mechanics:** Deployed low-power `ESP32` microcontrollers running local signal-processing algorithms to isolate machinery vibration frequencies on the edge, routing clean alerts to an `Orange Pi 5` gateway broker.
 
 <br>
 
 ---
 
-### 🐍 Contribution Graph
+### 🛠️ Core Weaponry
 
-<br>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ASIKKANI/ASIKKANI/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ASIKKANI/ASIKKANI/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ASIKKANI/ASIKKANI/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<br>
-
----
-
-### 📫 Let's Connect
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/asik-kani-578474210">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
+```text
+├── Languages              -->   Python [Expert], Kotlin, Java, C++, SQL, JavaScript
+├── AI/ML Frameworks       -->   Agentic Architectures (ReAct, MCP), LoRA, Fine-Tuning, LiteLLM
+├── Vector & CV Engines    -->   ChromaDB, OpenCV, Image Segmentation, NLP Pipelines, TensorFlow, Keras
+├── Cloud & Automation     -->   Amazon Bedrock, SageMaker, AWS Core, Docker, Linux/WSL2, Git Workflows
+└── Native OS & Systems    -->   Android SDK (AccessibilityService, GestureDescription), WebSockets, Win32 API
