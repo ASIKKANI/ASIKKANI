@@ -85,9 +85,46 @@ Out of 20+ competitive national hackathons, these five builds survived strict 24
 
 ### 🛠️ Core Weaponry
 
-```text
-├── Languages              -->   Python [Expert], Kotlin, Java, C++, SQL, JavaScript
-├── AI/ML Frameworks       -->   Agentic Architectures (ReAct, MCP), LoRA, Fine-Tuning, LiteLLM
-├── Vector & CV Engines    -->   ChromaDB, OpenCV, Image Segmentation, NLP Pipelines, TensorFlow, Keras
-├── Cloud & Automation     -->   Amazon Bedrock, SageMaker, AWS Core, Docker, Linux/WSL2, Git Workflows
-└── Native OS & Systems    -->   Android SDK (AccessibilityService, GestureDescription), WebSockets, Win32 API
+| Technology Field | Core Stack & Tools |
+| :--- | :--- |
+| **Languages** | Python `[Expert]`, Kotlin, Java, C++, SQL, JavaScript |
+| **Agentic Frameworks & Optimization** | ReAct Loops, Model Context Protocol (MCP), LoRA parameter adaptation, Fine-Tuning, LiteLLM |
+| **Vector Bases & Computer Vision** | ChromaDB (Vector DB), OpenCV, Image Segmentation, NLP Pipelines, TensorFlow, Keras |
+| **Cloud, DevOps & Workflows** | Amazon Bedrock, Amazon SageMaker, AWS Core Services, Docker, Linux/WSL2, Rigid Git Workflows |
+| **Low-Level OS & Edge Hardware** | Android SDK (`AccessibilityService`, `GestureDescription`), OkHttp WebSockets, Win32 API, ESP32, Orange Pi 5 |
+
+<br>
+
+---
+
+### 📊 GitHub Diagnostics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ASIKKANI&show_icons=true&theme=transparent&hide_border=true&title_color=4285F4&icon_color=4285F4&v=1" alt="Asik's Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASIKKANI&layout=compact&theme=transparent&hide_border=true&title_color=4285F4&v=1" alt="Asik's Languages" width="48%" />
+</div>
+
+<br>
+
+---
+
+### 🐍 Activity Canvas
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ASIKKANI/ASIKKANI/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ASIKKANI/ASIKKANI/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ASIKKANI/ASIKKANI/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asik-kani-578474210/)
+[![Email](https://img.shields.io/badge/Email-asikkani73@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:asikkani73@gmail.com)
+
+</div>
