@@ -2,7 +2,7 @@
 <img src="https://github.com/user-attachments/assets/750a2851-b35d-4830-85d2-27a067a36b1e" width="410" alt="Coding Pixel Art" />
 
 # P Asik Kani
-### ⚡ Systems Engineer & Agentic AI Architect ⚡
+###  Systems Engineer & Agentic AI Architect 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=4285F4&center=true&vCenter=true&width=600&lines=ML+Engineer+Intern;5x+National+Hackathon+Champion;Building+Autonomous+Agent+OS;B.Tech+EEE+@+VIT+Chennai)](https://git.io/typing-svg)
 
@@ -22,7 +22,7 @@ I bridge the gap between heavy AI model reasoning and bare-metal OS control. Cur
 
 ---
 
-### 🏆 The Trophy Room (5x National Podium Finishes)
+###  The Trophy Room (5x National Hackathon winner)
 
 Out of 20+ competitive national hackathons, these five builds survived strict 24-to-48-hour timelines and intense judging panels to secure overall podium positions:
 
